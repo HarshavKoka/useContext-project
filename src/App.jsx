@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Login from './Login.jsx'
-import Profile from './profile.jsx';
+import Profile from './Profile.jsx';
 import { LoginContext } from './LoginContext.jsx';
 
 const App = () => {
