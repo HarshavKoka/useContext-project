@@ -6,8 +6,8 @@ function Profile() {
 
     return (
         <>
-            <h1>Profile</h1>
-            <h2>Hello, a very very good Welcome Username: {username}</h2>
+            <h1>User</h1>
+            <h2>Hello, a well very warm good Welcome Username: {username}</h2>
         </>
     );
 }
