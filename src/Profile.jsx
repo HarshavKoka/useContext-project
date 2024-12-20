@@ -7,7 +7,7 @@ function Profile() {
     return (
         <>
             <h1>User</h1>
-            <h2>Hello, a well very warm good Welcome Username: {username}</h2>
+            <h2>Hello,friends a very very warm  Welcome Username: {username}</h2>
         </>
     );
 }
